@@ -15,8 +15,6 @@ The pipeline demonstrates key bioinformatics engineering concepts including:
 - automated testing
 - CI/CD with GitHub Actions
 
-This project was developed as a portfolio project to strengthen practical experience in computational genomics, clinical bioinformatics, and bioinformatics engineering.
-
 ---
 
 ## Features
