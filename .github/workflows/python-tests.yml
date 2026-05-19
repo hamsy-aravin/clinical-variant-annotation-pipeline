@@ -24,7 +24,7 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest
+          python3 -m pytest
 
       - name: Run example pipeline
         run: |
